@@ -1,0 +1,15 @@
+
+
+@media (max-width:850px){
+    .burger{
+        display: flex;
+    }
+    .navbar__list{
+        display: none;
+    }
+    .social__link i{
+        font-size: 24px;
+    }
+    
+   
+}
